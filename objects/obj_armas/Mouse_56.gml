@@ -1,0 +1,1 @@
+stuckChance =0;

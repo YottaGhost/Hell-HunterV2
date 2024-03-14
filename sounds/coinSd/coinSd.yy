@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"coinSd",
+  "audioGroupId":{
+    "name":"adEffects",
+    "path":"audiogroups/adEffects",
+  },
+  "bitDepth":0,
+  "bitRate":8,
+  "compression":0,
+  "conversionMode":0,
+  "duration":0.443243,
+  "name":"coinSd",
+  "parent":{
+    "name":"Sons",
+    "path":"folders/Sons.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":5512,
+  "soundFile":"coinSd.wav",
+  "type":0,
+  "volume":0.11,
+}

@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"gunHit",
+  "audioGroupId":{
+    "name":"adEffects",
+    "path":"audiogroups/adEffects",
+  },
+  "bitDepth":0,
+  "bitRate":8,
+  "compression":0,
+  "conversionMode":0,
+  "duration":0.075472,
+  "name":"gunHit",
+  "parent":{
+    "name":"Sons",
+    "path":"folders/Sons.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":5512,
+  "soundFile":"gunHit.wav",
+  "type":0,
+  "volume":0.45,
+}

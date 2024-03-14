@@ -1,0 +1,1 @@
+dano = obj_armas.dano /2;
